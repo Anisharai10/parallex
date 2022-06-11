@@ -19,22 +19,22 @@ html {
 }
 
 .WelcomeImg {
-  background: url("Ice.jpg");fixed;
+  background-image: url("Ice.jpg");fixed;
   min-height: 100%;
 }
 
 .SectionOneImg {
-  background: url("river.jpg"); fixed;
+  background-image: url("river.jpg"); fixed;
   min-height: 400px;
 }
 
 .SectionTwoImg {
-  background: url("eve.jpg"); fixed;
+ background-image: url("eve.jpg"); fixed;
   min-height: 400px;
 }
 
 .EndImg {
-  background: url("green.jpg"); fixed;
+ background-image: url("green.jpg"); fixed;
   min-height: 100%;
 }
 
