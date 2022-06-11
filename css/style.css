@@ -19,22 +19,22 @@ html {
 }
 
 .WelcomeImg {
-  background: url("https://www.pinterest.com/pin/439030663679796175/") fixed;
+  background: img src="Ice.jpg" fixed;
   min-height: 100%;
 }
 
 .SectionOneImg {
-  background: url("https://www.nawpic.com/nature-background-9/") fixed;
+  background: img src="river.jpg" fixed;
   min-height: 400px;
 }
 
 .SectionTwoImg {
-  background: url("https://www.freepik.com/photos/nature-background") fixed;
+  background: url("eve.jpg") fixed;
   min-height: 400px;
 }
 
 .EndImg {
-  background: url("https://www.istockphoto.com/photos/nature-background") fixed;
+  background: url("green.jpg") fixed;
   min-height: 100%;
 }
 
